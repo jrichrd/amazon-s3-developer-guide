@@ -1,6 +1,6 @@
 # Cross\-Origin Resource Sharing \(CORS\)<a name="cors"></a>
 
-Cross\-origin resource sharing \(CORS\) defines a way for client web applications that are loaded in one domain to interact with resources in a different domain\. With CORS support, you can build rich client\-side web applications with Amazon S3 and selectively allow cross\-origin access to your Amazon S3 resources\. 
+Cross\-origin resource sharing \(CORS\) defines a way for client web applications that are located in one domain to interact with resources in a different domain\. With CORS support, you can build rich client\-side web applications with Amazon S3 and selectively allow cross\-origin access to your Amazon S3 resources\. 
 
 This section provides an overview of CORS\. The subtopics describe how you can enable CORS using the Amazon S3 console, or programmatically by using the Amazon S3 REST API and the AWS SDKs\. 
 
